@@ -1,0 +1,10 @@
+bitcoin
+ethereum
+terra-luna-v2
+terra-luna
+ethereum-classic
+bnb
+cosmos
+solana
+shiba-inu
+cardano
